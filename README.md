@@ -5,7 +5,7 @@ _Had free time today and i wanted to make this little script to see where are mo
 ## Info...
 Data from these 2 urls:\
 mainnet --> https://explorer.mainnet.cardano.org/relays/topology.json \
-testnet --> https://explorer.cardano-testnet.iohkdev.io/relays/topology.json \
+testnet --> https://explorer.cardano-testnet.iohkdev.io/relays/topology.json 
 
 
 ### Example mainnet
