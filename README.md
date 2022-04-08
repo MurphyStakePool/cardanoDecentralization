@@ -3,9 +3,9 @@ I'm not a developer...
 _Had free time today and i wanted to make this little script to see where are most of the relay nodes in testnet or mainnet.You can filter by continent or state.
 
 ## Info...
-Data from these 2 urls:
-mainnet --> https://explorer.mainnet.cardano.org/relays/topology.json
-testnet --> https://explorer.cardano-testnet.iohkdev.io/relays/topology.json
+Data from these 2 urls:\
+mainnet --> https://explorer.mainnet.cardano.org/relays/topology.json \
+testnet --> https://explorer.cardano-testnet.iohkdev.io/relays/topology.json \
 
 
 ### Example mainnet
