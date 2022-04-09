@@ -1,4 +1,4 @@
-# Cardano Descentralization
+# Cardano Decentralization
 I'm not a developer...
 _Had free time today and i wanted to make this little script to see where are most of the relay nodes in testnet or mainnet.You can filter by continent or state.
 
