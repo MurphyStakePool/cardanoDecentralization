@@ -10,11 +10,11 @@ testnet --> https://explorer.cardano-testnet.iohkdev.io/relays/topology.json
 
 ### Example mainnet
 ```
-python3 descentralization.py -n mainnet -f continent
+python3 decentralization.py -n mainnet -f continent
 ```
 ### Example testnet
 ```
-python3 descentralization.py -n testnet -f continent
+python3 decentralization.py -n testnet -f continent
 ```
 
 ## Delegate to my pool in testnet :D
